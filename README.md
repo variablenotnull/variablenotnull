@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Improving database solution and implementing python<br>💬 Ask me about:<br>Data Visualization, SQL, Power Bi, Spark, Apache Airflow, Python<br>⚡ Fun fact:<br>I treat my bugs like Pokémon – gotta catch 'em all!o
+🔭 I’m currently working on:<br>Improving database solution and implementing python<br>💬 Ask me about:<br>Data Visualization, SQL, Power Bi, Spark, Apache Airflow, Python<br>⚡ Fun fact:<br>I treat my bugs like Pokémon – gotta catch 'em all!
 
 
 ## 🌐 Socials:
