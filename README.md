@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Improving database solution and implementing python<br><br>💬 Ask me about:<br>Data Visualization, SQL, Power Bi, Spark, Apache Airflow, Python<br>⚡ Fun fact:<br>Love Driving Lambo
+🔭 I’m currently working on:<br>Improving database solution and implementing python<br>💬 Ask me about:<br>Data Visualization, SQL, Power Bi, Spark, Apache Airflow, Python<br>⚡ Fun fact:<br>Love Driving Lambo
 
 
 ## 🌐 Socials:
